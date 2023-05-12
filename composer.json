@@ -1,0 +1,8 @@
+{
+  "name":"market",
+  "autoload":{
+    "psr-4":{
+      "App\\":"app/"
+    }
+  }
+}
